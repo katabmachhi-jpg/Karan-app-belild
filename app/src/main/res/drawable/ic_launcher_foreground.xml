@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Tech Hexagon / Rounded Shield in safe zone (centered around 54,54) -->
+    <path
+        android:fillColor="#2200F5D4"
+        android:strokeColor="#00F5D4"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,26 L78,39 L78,69 L54,82 L30,69 L30,39 Z" />
+
+    <!-- AI Core Glowing Chip -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M44,44 h20 v20 h-20 Z" />
+
+    <!-- Code bracket left '<' -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M42,47 L36,54 L42,61" />
+
+    <!-- Code bracket right '>' -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M66,47 L72,54 L66,61" />
+
+    <!-- Center Slash '/' / Spark -->
+    <path
+        android:strokeColor="#00F5D4"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M57,48 L51,60" />
+
+    <!-- Top AI Antenna / Spark -->
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M54,32 a3,3 0 1,0 0.001,0 Z" />
+    <path
+        android:strokeColor="#00F5D4"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,35 L54,41" />
+
+    <!-- Bottom connection dots -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M46,73 a2,2 0 1,0 0.001,0 Z" />
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M62,73 a2,2 0 1,0 0.001,0 Z" />
+</vector>

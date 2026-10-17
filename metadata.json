@@ -1,0 +1,6 @@
+{
+  "name": "KARAN AI APP BUILDER",
+  "description": "Autonomous AI application builder supporting Hindi, Hinglish, and English to plan, generate, validate, and build Android and Web apps with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
